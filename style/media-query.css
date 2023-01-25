@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 992px){
+    body, html{
+        width: 100vw;
+        height: 100vh;
+        background-color: #2d0249;
+    }
+    main{
+        width: 100vw;
+        height: 100vh;
+        position: relative;
+    }
+    body, html{
+        width: 100vw;
+        height: 100vh;
+        background-color: #2d0249;
+    }
+     main{
+       width: 100vw;
+       height: 100vh;
+       position: relative;
+    }
+    #login{
+    top: 50%;
+    left: 50%;
+    width: 730px;
+    height: 340px;
+    overflow-wrap:break-word;
+    font-size: 10px;
+    position: absolute;
+    text-align: justify;
+    border-radius: 28px;
+    background-color: white;
+    transform: translate(-50%, -50%);
+    }
+    img{
+        top: 0%;
+        width: 350px;
+        height: 340px;
+        position: relative;
+        border-radius: 19px 1px 1px 19px;
+    }
+    h1{
+        top: -96%;
+        left: 22%;
+        position: relative;
+    }
+    #formulario{
+        top: -95%;
+        left: 54%;
+        width: 240px;
+        height: 30px;
+        word-wrap: break-word;
+        position: relative;
+    }
+    #p{
+        top: -94%;
+        left: 49%;
+        width: 364px;
+        word-wrap: break-word;
+        position: relative;
+    }
+   
+}
