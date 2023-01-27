@@ -55,6 +55,9 @@
         word-wrap: break-word;
         position: relative;
     }
+    .material-symbols-outlined{
+        font-size: 100px;
+    }
     #p{
         top: -94%;
         left: 49%;
